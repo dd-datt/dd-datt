@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center"> Hi there👋</h1>
 
-<!--
-**dd-datt/dd-datt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center"> I'm Nguyen Van Dat, a software engineer from Vietnam <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"></h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <i>Take a look at my repositories and let's get in touch!</i>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<i>Xem những thứ nhảm nhí của mình tại [<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJnb2Nzb2t1c3JtaW9oZm05am8zZzdsZ240ZDg3OTYwYmlmYzk4bSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/QWpK88H1g9PtmtQly1/giphy.gif" width="27px">](https://www.instagram.com/dd_datt/) hoặc [<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTIzd2Y3eHdpbHNlZHA0ZDZiYzM2eHQ2ZGQ5NG54NjFmcXhoNWd4ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lSIsAbuVAs6yKnJoKX/giphy.gif" width="27px">](https://www.threads.net/@dd_datt). </i>
+
+<!-- Cre: README.md by @vkhanhqui>
