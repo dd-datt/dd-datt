@@ -27,8 +27,6 @@
 
 - TOEIC 000
 
----
-
 ## 🎯 Mục tiêu nghề nghiệp
 
 - Trở thành lập trình viên Flutter chuyên nghiệp, xây dựng các ứng dụng di động chất lượng cao, thân thiện với người dùng.
@@ -71,9 +69,11 @@
 
 ## 📫 Liên hệ
 
-- <b>Email:</b> <vdat319@gmail.com>
-- <b>GitHub:</b> [github.com/dd-datt](https://github.com/dd-datt)
-- <b>Instagram</b> [dd_datt](https://www.instagram.com/dd_datt/)
+<p align="center">
+  <a href="mailto:vdat319@gmail.com"><img src="https://img.shields.io/badge/Gmail-vdat319@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/dd-datt"><img src="https://img.shields.io/badge/GitHub-dd--datt-181717?style=flat&logo=github&logoColor=white"/></a>
+  <a href="https://www.instagram.com/dd_datt/"><img src="https://img.shields.io/badge/Instagram-dd__datt-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6fb,100:005bea&height=150&section=footer"/>
